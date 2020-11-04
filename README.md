@@ -1,4 +1,4 @@
-# new_app1
+# Store
 
 A new Flutter project.
 
